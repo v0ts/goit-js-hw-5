@@ -1,0 +1,27 @@
+{
+  "name": "goit-js-hw-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v0ts/goit-js-hw-5.git"
+  },
+  "keywords": [],
+  "author": "VoTs <cybulskij2011@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v0ts/goit-js-hw-5/issues"
+  },
+  "homepage": "https://github.com/v0ts/goit-js-hw-5#readme",
+  "devDependencies": {
+    "@pnotify/core": "^5.2.0"
+  },
+  "dependencies": {
+    "chart": "^0.1.2",
+    "pnotify": "^5.2.0"
+  }
+}
